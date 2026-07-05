@@ -8,8 +8,8 @@ This project is an interactive Power BI dashboard developed to analyze BlinkIT g
 
 ## 📊 Dashboard Preview
 
-![BlinkIT Dashboard](Blinkit_Dashboard.png)
 
+![BlinkIT Dashboard](Blinkit_Dashboard.png)
 ---
 
 ## 🚀 Tools & Technologies
